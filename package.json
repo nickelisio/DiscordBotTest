@@ -1,0 +1,22 @@
+{
+  "name": "discordbottest",
+  "version": "1.0.0",
+  "description": "This is a bot for yelling at people in discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickelisio/DiscordBotTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickelisio/DiscordBotTest/issues"
+  },
+  "homepage": "https://github.com/nickelisio/DiscordBotTest#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
